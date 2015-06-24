@@ -1,0 +1,24 @@
+{
+  "name": "website",
+  "version": "0.0.1",
+  "description": "Kod Mere website",
+  "main": "lib/app.js",
+  "scripts": {
+    "test": "-",
+    "start": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kodmere/website"
+  },
+  "author": "Niels Abildgaard <me@hypesystem.dk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kodmere/website/issues"
+  },
+  "homepage": "https://github.com/kodmere/website",
+  "dependencies": {
+    "express": "^4.13.0",
+    "yargs": "^3.12.0"
+  }
+}
